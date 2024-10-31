@@ -1,0 +1,566 @@
+/*
+====================================
+Larger Screen - Others
+====================================
+*/
+@media screen and (min-width: 1400px) and (max-width: 1599px) {
+    .hero-area-overlay {
+        padding: 66px 0;
+    }
+    .third-post::after {
+        left: 2%;
+    }
+    .single-post-wrpper::after {
+        top: -42px;
+        left: 98%;
+    }
+    .million-educators {
+        padding-top: 80px;
+    }
+}
+
+/*
+====================================
+Xtra Large Screen - Others
+====================================
+*/
+@media screen and (min-width: 1200px) and (max-width: 1399px) {
+    .hero-area-overlay {
+        padding: 66px 0;
+    }
+    .hero-title-wrpper h1 {
+        font-size: 40px;
+        /*! line-height: 70px; */
+    }
+    .hero-btns {
+        margin-top: 35px;
+    }
+    .million-educators {
+        padding: 80px 0;
+    }
+    .lovers-meeting-content p::after {
+        right: -27px;
+        top: -27px;
+    }
+    .all-students-overlay {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .post-content h2 {
+        font-size: 49px;
+    }
+    .third-post::before {
+        top: 21%;
+    }
+    .third-post::after {
+        left: 0%;
+    }
+    .single-post-wrpper::after {
+        top: 11px;
+        left: 97%;
+    }
+    .hero-list-wrpper h1 {
+        font-size: 36px;
+    }
+}
+
+/*
+====================================
+Large Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+    .logo-wrpper a img {
+        width: 100%;
+    }
+    .login-signup-wrpper ul li:last-child {
+        margin-left: 0px;
+    }
+    .hero-area-overlay {
+        padding: 66px 0;
+    }
+    .hero-title-wrpper h1 {
+        font-size: 37px;
+        /*! line-height: 60px; */
+    }
+    .hero-list-wrpper img {
+        margin-top: -20px;
+        width: 36px;
+    }
+    .hero-btns {
+        margin-top: 30px;
+    }
+    .million-educators {
+        padding: 45px 0;
+    }
+    .lovers-meeting-content h2 {
+        font-size: 38px;
+        margin-bottom: 0px;
+    }
+    .lovers-meeting-content {
+        padding-left: 24px;
+    }
+    .lovers-meeting-content p::after {
+        right: -27px;
+        top: -27px;
+    }
+    .post-content h4 {
+        margin-bottom: 6px;
+    }
+    .post-content h2 {
+        font-size: 36px;
+        margin-bottom: 15px;
+    }
+    .row-content p {
+        margin-bottom: 4px;
+    }
+    .third-post::before {
+        top: 20%;
+    }
+    .third-post::after {
+        left: 0%;
+    }
+    .single-post-wrpper::after {
+        top: -14px;
+        left: 96%;
+    }
+    .save-time-content-wrpper {
+        width: 80%;
+    }
+    .save-time-content-wrpper h2 {
+        margin-bottom: 10px;
+    }
+    .save-time-content-wrpper p {
+        margin-bottom: 13px;
+    }
+    .usefull-links h3,
+    .socials-linsk h3,
+    .support-links h3 {
+        font-size: 22px;
+    }
+    .hero-list-wrpper h1 {
+        font-size: 38px;
+    }
+    .hero-list-wrpper {
+        height: 40px;
+    }
+}
+
+/*
+====================================
+Medium Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .hero-area-overlay {
+        padding: 66px 0;
+    }
+    .hero-title-wrpper h1 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .hero-list-wrpper img {
+        margin-top: -20px !important;
+        width: 35px;
+    }
+    .hero-btns {
+        margin-top: 30px;
+    }
+    .hero-list-wrpper ul {
+        flex-direction: column;
+        list-style: none;
+        gap: 6px;
+        margin-top: 15px;
+    }
+    .million-educators {
+        padding: 25px 0;
+        padding-bottom: 40px;
+    }
+    .lovers-meeting-content h2 {
+        font-size: 38px;
+        margin-bottom: 10px;
+    }
+    .lovers-meeting-content {
+        padding-left: 0px;
+        padding-top: 25px;
+    }
+    .million-educators::after {
+        bottom: 40%;
+    }
+    .lovers-meeting-content p::after {
+        right: -19px;
+    }
+    .post-area {
+        padding-top: 75px;
+    }
+    .post-content {
+        margin-top: 30px;
+    }
+    .post-content h4 {
+        margin-bottom: 0px;
+    }
+    .post-content h2 br {
+        display: none;
+    }
+    .post-content h2 {
+        font-size: 37px;
+        margin-bottom: 15px;
+    }
+    .post-content-row li {
+        margin-bottom: 15px;
+    }
+    .second-post,
+    .third-post,
+    .fourth-post {
+        padding-top: 75px;
+    }
+    .third-post::before {
+        top: 20%;
+    }
+    .third-post::after {
+        left: 0%;
+    }
+    .single-post-wrpper::after {
+        top: -14px;
+        left: 96%;
+    }
+    .save-time-area {
+        padding-bottom: 60px;
+    }
+    .save-time-content-wrpper {
+        width: 90%;
+    }
+    .save-time-content-wrpper h2 {
+        font-size: 33px;
+        margin-bottom: 3px;
+    }
+    .save-time-content-wrpper p {
+        margin: auto;
+        margin-bottom: 8px;
+        width: 90%;
+    }
+    .footer-social-icons {
+        margin-top: 20px;
+    }
+    .hero-list-wrpper h1 {
+        font-size: 40px;
+    }
+    .hero-list-wrpper {
+        height: 50px;
+        margin-top: 16px;
+    }
+}
+
+/*
+====================================
+Small Screen - Small Mobile
+====================================
+*/
+@media screen and (min-width: 576px) and (max-width: 767px) {
+    .logo-wrpper a img {
+        width: 200px;
+    }
+    .hero-area-overlay {
+        padding: 66px 0;
+    }
+    .hero-title-wrpper h1 {
+        font-size: 32px;
+        line-height: 43px;
+    }
+    .hero-btns {
+        margin-top: 30px;
+    }
+    .hero-list-wrpper ul {
+        flex-direction: column;
+        list-style: none;
+        gap: 6px;
+        margin-top: 15px;
+    }
+    .hero-title-wrpper h1::before {
+        left: 9%;
+        top: -24px;
+    }
+    .million-educators {
+        padding: 25px 0;
+    }
+    .lovers-meeting-content h2 {
+        font-size: 31px;
+        margin-bottom: 5px;
+    }
+    .lovers-meeting-content {
+        padding-left: 0px;
+        padding-top: 25px;
+    }
+    .million-educators::after {
+        bottom: 40%;
+    }
+    .lovers-meeting-content p::after {
+        right: -19px;
+    }
+    .all-students-overlay {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .all-student-contetn p {
+        font-size: 40px;
+    }
+    .all-students-list ul {
+        flex-direction: column;
+        row-gap: 15px;
+    }
+    .post-area {
+        padding-top: 60px;
+        padding-bottom: 40px;
+    }
+    .post-content {
+        margin-top: 30px;
+    }
+    .post-content h4 {
+        margin-bottom: 5px;
+        font-size: 20px;
+    }
+    .post-content h2 br {
+        display: none;
+    }
+    .post-content h2 {
+        font-size: 27px;
+        margin-bottom: 10px;
+    }
+    .post-content-row li {
+        margin-bottom: 15px;
+    }
+    .second-post,
+    .third-post,
+    .fourth-post {
+        padding-top: 50px;
+    }
+    .third-post::before {
+        top: 20%;
+    }
+    .third-post::after {
+        left: 0%;
+    }
+    .single-post-wrpper::after {
+        top: -30px;
+        left: 92%;
+    }
+    .save-time-area {
+        padding-bottom: 50px;
+    }
+    .save-time-content-wrpper {
+        width: 95%;
+    }
+    .save-time-content-wrpper h2 {
+        font-size: 33px;
+        margin-bottom: 3px;
+    }
+    .save-time-content-wrpper p {
+        margin: auto;
+        margin-bottom: 8px;
+        width: 90%;
+    }
+    .footer-social-icons {
+        margin-top: 10px;
+    }
+    .footer-social-icons p {
+        width: 100%;
+    }
+    .copy-right-section p {
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    .trems-policy ul {
+        justify-content: center;
+    }
+    .hero-list-wrpper h1 {
+        font-size: 30px;
+    }
+    .hero-list-wrpper img {
+        /*! display: none; */
+        width: 24px;
+    }
+    .hero-list-wrpper {
+        width: 73%;
+        /*! height: 65px; */
+    }
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 575px) {
+    .logo-wrpper a img {
+        width: 200px;
+    }
+    .hero-area-overlay {
+        padding: 35px 0;
+    }
+    .hero-title-wrpper h1 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .hero-btns {
+        margin-top: 30px;
+    }
+    .hero-list-wrpper ul {
+        flex-direction: column;
+        list-style: none;
+        gap: 6px;
+        margin-top: 15px;
+    }
+    .hero-title-wrpper h1::before {
+        left: 9%;
+        top: -24px;
+    }
+    .hero-btns ul {
+        /*! flex-direction: column; */
+        align-items: center;
+    }
+    .hero-btns ul li:last-child {
+        /*! margin-top: 15px; */
+    }
+    .million-educators {
+        padding: 0px 0;
+        padding-bottom: 30px;
+    }
+    .lovers-meeting-content h2 {
+        font-size: 28px;
+        margin-bottom: 5px;
+    }
+    .lovers-meeting-content {
+        padding-left: 0px;
+        padding-top: 25px;
+    }
+    .lovers-meeting img {
+        transform: translate(-7px, 9px);
+    }
+    .million-educators::after {
+        bottom: 50%;
+    }
+    .lovers-meeting-content p::after {
+        display: none;
+    }
+    .all-students-overlay {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .all-student-contetn p {
+        font-size: 27px;
+    }
+    .all-students-list ul {
+        flex-direction: column;
+        row-gap: 15px;
+    }
+    .post-area {
+        padding-top: 40px;
+        padding-bottom: 30px;
+    }
+    .post-content {
+        margin-top: 30px;
+    }
+    .post-content h4 {
+        margin-bottom: 5px;
+        font-size: 20px;
+    }
+    .post-content h2 br {
+        display: none;
+    }
+    .post-content h2 {
+        font-size: 27px;
+        margin-bottom: 10px;
+    }
+    .post-content-row li {
+        margin-bottom: 15px;
+    }
+    .row-content p {
+        font-size: 16px;
+        margin-bottom: 3px;
+    }
+    .row-content span {
+        font-size: 15px;
+    }
+    .second-post,
+    .third-post,
+    .fourth-post {
+        padding-top: 50px;
+    }
+    .third-post::before {
+        top: 20%;
+    }
+    .third-post::after {
+        left: 0%;
+        background-size: calc(50px);
+    }
+    .single-post-wrpper::after {
+        top: -30px;
+        left: 82%;
+        background-size: calc(50px);
+    }
+    .save-time-area {
+        padding-bottom: 30px;
+    }
+    .save-time-content-wrpper {
+        width: 95%;
+    }
+    .save-time-content-wrpper h2 {
+        font-size: 29px;
+        margin-bottom: 3px;
+    }
+    .save-time-content-wrpper p {
+        margin: auto;
+        margin-bottom: 8px;
+        width: 90%;
+        line-height: 110%;
+    }
+    .save-time-content-wrpper a {
+        padding: 10px 30px;
+        font-weight: 400;
+    }
+    .footer-social-icons {
+        margin-top: 20px;
+    }
+    .footer-social-icons p {
+        width: 100%;
+    }
+    .copy-right-section p {
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    .trems-policy ul {
+        justify-content: center;
+    }
+    .usefull-links h3,
+    .socials-linsk h3,
+    .support-links h3 {
+        margin-bottom: 10px;
+    }
+    .usefull-links ul li,
+    .socials-linsk ul li,
+    .support-links ul li {
+        margin-bottom: 5px;
+    }
+    .footer-area-top-wrpper {
+        padding-top: 20px;
+        padding-bottom: 30px;
+    }
+    .usefull-links h3,
+    .socials-linsk h3,
+    .support-links h3 {
+        margin-top: 20px;
+    }
+    .hero-list-wrpper h1 {
+        font-size: 27px;
+    }
+    .hero-list-wrpper img {
+        display: none;
+        /* width: 30px; */
+    }
+    .hero-list-wrpper {
+        margin: auto;
+        margin-top: 15px;
+        width: 70%;
+        height: 42px;
+    }
+}
